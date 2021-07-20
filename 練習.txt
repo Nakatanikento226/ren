@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Git練習 
 Git練習その２
 a
+=======
+Git練習
+
+akakakakakkakakasdfsdvdsvsdvs
+>>>>>>> origin/main
